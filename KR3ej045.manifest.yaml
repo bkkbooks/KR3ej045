@@ -1,0 +1,286 @@
+canonical_identifier: bkk:krp/KR3ej045/v1
+canonical_location: https://kanripo.org/bkk/KR3ej045/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傅氏兒科
+  identifiers:
+    krp: KR3ej045
+  tags:
+    kr-categories: KR3ej
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej045.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej045_000.yaml, hash: 'sha256:d4f9bcbe5d5cd56ad7d9852bf8d2667e3cf50166f1ea7f8bc64c1ad90ee22795'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej045_000.markers.yaml, hash: 'sha256:4832675cde8dbf95ec24b5dc578672bf2b8e1a2093e3d57e039fd55feb0c4456'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 2007
+  label: 小兒科
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d2
+    span:
+    - body
+    - 3
+    - 104
+  label: 色
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d3
+    span:
+    - body
+    - 104
+    - 173
+  label: 脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d4
+    span:
+    - body
+    - 173
+    - 211
+  label: 三關
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d5
+    span:
+    - body
+    - 211
+    - 252
+  label: 不食乳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d6
+    span:
+    - body
+    - 252
+    - 268
+  label: 臍不於
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d7
+    span:
+    - body
+    - 268
+    - 568
+  label: 山根
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d8
+    span:
+    - body
+    - 568
+    - 762
+  label: 發熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d9
+    span:
+    - body
+    - 762
+    - 802
+  label: 感冒風寒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d10
+    span:
+    - body
+    - 802
+    - 939
+  label: 驚風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d11
+    span:
+    - body
+    - 939
+    - 994
+  label: 驚風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d12
+    span:
+    - body
+    - 994
+    - 1078
+  label: 痢疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d13
+    span:
+    - body
+    - 1078
+    - 1135
+  label: 泄瀉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d14
+    span:
+    - body
+    - 1135
+    - 1202
+  label: 寒瀉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d15
+    span:
+    - body
+    - 1202
+    - 1279
+  label: 吐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d16
+    span:
+    - body
+    - 1279
+    - 1308
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d17
+    span:
+    - body
+    - 1308
+    - 1394
+  label: 疳症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d18
+    span:
+    - body
+    - 1394
+    - 1440
+  label: 口疳流水口爛神方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d19
+    span:
+    - body
+    - 1440
+    - 1508
+  label: 疳症瀉痢眼障神效方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d20
+    span:
+    - body
+    - 1508
+    - 1600
+  label: 瘧疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d21
+    span:
+    - body
+    - 1600
+    - 1627
+  label: 便蟲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d22
+    span:
+    - body
+    - 1627
+    - 1672
+  label: 積蟲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d23
+    span:
+    - body
+    - 1672
+    - 1698
+  label: 痘症回毒或疔腫方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d24
+    span:
+    - body
+    - 1698
+    - 1833
+  label: 痘瘡壞症已黑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d25
+    span:
+    - body
+    - 1833
+    - 1912
+  label: 急慢風三六九日一切風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej045_jc_000-d2d26
+    span:
+    - body
+    - 1912
+    - 2007
+  label: 治火丹神方
+  type: section
+  level: 2
+hash: sha256:d352296ca245ad714c8aa89b1ea246ba8fd2fca8ded65529920cd5c50c6521d8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
