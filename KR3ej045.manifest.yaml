@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej045/v1
 canonical_location: https://kanripo.org/bkk/KR3ej045/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傅氏兒科
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej045_000.yaml, hash: 'sha256:81d31d19ee94d2bcafb3696655494b7d8db3c679c5ba810b0d871b486189ecd9'}
+  - {seq: 0, filename: KR3ej045_000.yaml, hash: 'sha256:62c02cfe5f994cb139a4250b7383cd23bbc26610b00e2df12f5956d4fa403ced'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej045_000.markers.yaml, hash: 'sha256:92efe11efab4b278805497a6356d848b188f1ef11cd432473cdfae5be1c27c2a'}
+  - {seq: 0, role: markers, filename: assets/KR3ej045_000.markers.yaml, hash: 'sha256:1987742bf42c6217cb7fa337d8d3749b72330aaa8b6095531212c7a9afef19fa'}
 table_of_contents:
 - ref:
     seq: 0
@@ -280,4 +280,7 @@ table_of_contents:
   label: 治火丹神方
   type: section
   level: 2
-hash: sha256:8a8832592b469369ef4c4b6781ae199b817e43201ed19729727868b96dd26a3e
+hash: sha256:6a688035c5971012a03c20275eb9a7d6e007524fb0c52d1cb8730de7adbf80ab
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
